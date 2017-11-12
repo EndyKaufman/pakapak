@@ -1,6 +1,8 @@
 Pakapak
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EndyKaufman/pakapak.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/EndyKaufman/pakapak.svg?branch=master)](https://travis-ci.org/EndyKaufman/pakapak)
 
 npm + bower + other conf = pakapak
